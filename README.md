@@ -40,7 +40,7 @@
 ├── .eslintrc // eslint 配置文件
 ├── .gitignore // git 忽略
 ├── .npmrc // npm 配置文件
-├── .prettierignore // prettierc 忽略
+├── .prettierignore // prettierc 忽略文件
 ├── .prettierrc // prettierc 配置文件
 ├── commitlint.config // git 提交配置文件
 ├── index.html // 入口文件
